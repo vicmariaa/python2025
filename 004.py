@@ -1,0 +1,5 @@
+nome=input ('Digite seu nome: ')
+dia=input ('Digite seu dia de nascimento: ')
+mes=input ('Digite seu mes de nascimento: ')
+ano=input ('Digite seu ano de nascimento: ')
+print('Olá, ',nome,' sua data de nascimento é:' ,dia,'/',mes,'/',ano,'.')
